@@ -54,7 +54,6 @@ The dashboard includes:
   - Avg Delivery Time by Vehicle, City  
   - Orders over Time (trend analysis)
 - **Slicers:** City, Month, Traffic Condition, Vehicle Type  
-- **Interactivity:** Drillthrough to driver-level performance
 
 ---
 
